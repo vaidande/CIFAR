@@ -16,7 +16,7 @@ The classes are completely mutually exclusive. There is no overlap between autom
 ## Model Structure
 Model: "model"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 input_1 (InputLayer)         [(None, 32, 32, 3)]       0         
 _________________________________________________________________
