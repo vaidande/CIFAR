@@ -10,5 +10,5 @@ Here are the classes in the dataset, as well as 10 random images from each:
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks
 
 ## Classification using CNN
-Train Accuracy : 94.12%<br/>
-Test Accuracy : 77.49%
+Train Accuracy : 92.68%<br/>
+Test Accuracy : 87.73%
